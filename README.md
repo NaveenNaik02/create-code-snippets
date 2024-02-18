@@ -12,5 +12,5 @@ Setup Prisma and create the database schema
 ```bash
     npm install prisma --save-dev
     npx prisma init
-    npx prima generate
+    npx prisma generate
 ```
